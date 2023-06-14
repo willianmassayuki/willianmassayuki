@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, eu sou o Willian Sato. Seja bem-vindo ao meu perfil!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianmassayuki&size_weight=0.5&count_weight=0.5&theme=dark)
 
 <!--
 **willianmassayuki/willianmassayuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
